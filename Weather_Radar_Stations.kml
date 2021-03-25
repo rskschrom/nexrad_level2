@@ -1,0 +1,2023 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Weather_Radar_Stations" id="Weather_Radar_Stations">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="siteID" type="string"></SimpleField>
+	<SimpleField name="siteName" type="string"></SimpleField>
+	<SimpleField name="radarType" type="string"></SimpleField>
+	<SimpleField name="antennaElevation" type="string"></SimpleField>
+</Schema>
+<Folder><name>Weather_Radar_Stations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="siteID">KABR</SimpleData>
+		<SimpleData name="siteName">ABERDEEN</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.4130459996855,45.4558330002883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="siteID">KABX</SimpleData>
+		<SimpleData name="siteName">ALBUQUERQUE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.823880000343,35.1497220000636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="siteID">KAKQ</SimpleData>
+		<SimpleData name="siteName">NORFOLK</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0074910001114,36.9838890001716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="siteID">KAMA</SimpleData>
+		<SimpleData name="siteName">AMARILLO</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.709268999676,35.233333000076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="siteID">KAMX</SimpleData>
+		<SimpleData name="siteName">MIAMI</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.4130480000443,25.6105560000249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="siteID">KAPX</SimpleData>
+		<SimpleData name="siteName">NCL MICHIGAN</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.7195229999189,44.9063500003126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="siteID">KARX</SimpleData>
+		<SimpleData name="siteName">LA CROSSE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-91.1911010000182,43.8227779997793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="siteID">KATX</SimpleData>
+		<SimpleData name="siteName">SEATTLE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.495684000416,48.1946109997045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="siteID">KBBX</SimpleData>
+		<SimpleData name="siteName">BEALE AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.631657999986,39.4961109998561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="siteID">KBGM</SimpleData>
+		<SimpleData name="siteName">BINGHAMTON</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.9847129997032,42.1996939998756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="siteID">KBHX</SimpleData>
+		<SimpleData name="siteName">EUREKA (BUNKER HILL)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-124.292158000385,40.4983330002636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="siteID">KBIS</SimpleData>
+		<SimpleData name="siteName">BISMARCK</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.760268000415,46.7708329999195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="siteID">KBLX</SimpleData>
+		<SimpleData name="siteName">BILLINGS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-108.60679599992,45.8537779997866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="siteID">KBMX</SimpleData>
+		<SimpleData name="siteName">BIRMINGHAM</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.7697129996542,33.1719439999302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="siteID">KBOX</SimpleData>
+		<SimpleData name="siteName">BOSTON</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1368510003865,41.9557779996762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="siteID">KBRO</SimpleData>
+		<SimpleData name="siteName">BROWNSVILLE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.4186030004305,25.9155560000814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="siteID">KBUF</SimpleData>
+		<SimpleData name="siteName">BUFFALO</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7369349997927,42.9486109998223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="siteID">KBYX</SimpleData>
+		<SimpleData name="siteName">KEY WEST</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.7033249998443,24.5969439995977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="siteID">KCAE</SimpleData>
+		<SimpleData name="siteName">COLUMBIA</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.11860199998,33.9486110003504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="siteID">KCBW</SimpleData>
+		<SimpleData name="siteName">CARIBOU</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-67.8064070003462,46.0391669998649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="siteID">KCBX</SimpleData>
+		<SimpleData name="siteName">BOISE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-116.236023000043,43.4902169999301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="siteID">KCCX</SimpleData>
+		<SimpleData name="siteName">STATE COLLEGE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.0038800000034,40.9230559998116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="siteID">KCLE</SimpleData>
+		<SimpleData name="siteName">CLEVELAND</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.8599910003417,41.413055999677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="siteID">KCLX</SimpleData>
+		<SimpleData name="siteName">CHARLESTON, SC</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.042186000056,32.6555279997393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="siteID">KCRI</SimpleData>
+		<SimpleData name="siteName">ROC FAA REDUNDANT (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.4599909996674,35.2383330000729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="siteID">KCRP</SimpleData>
+		<SimpleData name="siteName">CORPUS CHRISTI</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.5108249997124,27.7838889998536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="siteID">KCXX</SimpleData>
+		<SimpleData name="siteName">BURLINGTON</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.1663790002905,44.5111109997579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="siteID">KCYS</SimpleData>
+		<SimpleData name="siteName">CHEYENNE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.806102000288,41.1519439998566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="siteID">KDAX</SimpleData>
+		<SimpleData name="siteName">SACRAMENTO</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.677823999878,38.5011110003338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="siteID">KDDC</SimpleData>
+		<SimpleData name="siteName">DODGE CITY</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.9688800002347,37.7608330002856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="siteID">KDFX</SimpleData>
+		<SimpleData name="siteName">LAUGHLIN AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.280269999892,29.2724999999898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="siteID">KDGX</SimpleData>
+		<SimpleData name="siteName">JACKSON/BRANDON, MS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.9844359996414,32.28</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="siteID">KDIX</SimpleData>
+		<SimpleData name="siteName">PHILADELPHIA</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.4107129997806,39.9469440002003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="siteID">KDLH</SimpleData>
+		<SimpleData name="siteName">DULUTH</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.2097119996909,46.8369439998774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="siteID">KDMX</SimpleData>
+		<SimpleData name="siteName">DES MOINES</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.7228519997005,41.7311110002419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="siteID">KDOX</SimpleData>
+		<SimpleData name="siteName">DOVER AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.4399910002772,38.8255559996506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="siteID">KDTX</SimpleData>
+		<SimpleData name="siteName">DETROIT</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.471657999728,42.7000000000986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="siteID">KDVN</SimpleData>
+		<SimpleData name="siteName">QUAD CITIES</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.580823999864,41.6116670001155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="siteID">KDYX</SimpleData>
+		<SimpleData name="siteName">DYESS AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2541590000484,32.5383330001672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="siteID">KEAX</SimpleData>
+		<SimpleData name="siteName">PLEASANT HILL</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.264463000347,38.8102500002727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="siteID">KEMX</SimpleData>
+		<SimpleData name="siteName">TUCSON</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110.630269999799,31.8936110001296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="siteID">KENX</SimpleData>
+		<SimpleData name="siteName">ALBANY</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0640740004012,42.5865560002617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="siteID">KEOX</SimpleData>
+		<SimpleData name="siteName">FT RUCKER</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.4593809997452,31.460556000162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="siteID">KEPZ</SimpleData>
+		<SimpleData name="siteName">EL PASO</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.697991999957,31.8730559999461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="siteID">KESX</SimpleData>
+		<SimpleData name="siteName">LAS VEGAS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.891381000395,35.7011109997697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="siteID">KEVX</SimpleData>
+		<SimpleData name="siteName">EGLIN AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.9216590000603,30.5650330002508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="siteID">KEWX</SimpleData>
+		<SimpleData name="siteName">AUSTIN/SAN ANTONIO</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.0286029996769,29.7040560000611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="siteID">KEYX</SimpleData>
+		<SimpleData name="siteName">EDWARDS AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.560741,35.0977779997058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="siteID">KFCX</SimpleData>
+		<SimpleData name="siteName">ROANOKE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.2741579998312,37.0241669996887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="siteID">KFDR</SimpleData>
+		<SimpleData name="siteName">ALTUS AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.9766590000047,34.3621940001286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="siteID">KFDX</SimpleData>
+		<SimpleData name="siteName">CANNON AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-103.618881000101,34.634166999967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="siteID">KFFC</SimpleData>
+		<SimpleData name="siteName">ATLANTA</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.5658249998825,33.3633330003319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="siteID">KFSD</SimpleData>
+		<SimpleData name="siteName">SIOUX FALLS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7288799999671,43.5877780001446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="siteID">KFSX</SimpleData>
+		<SimpleData name="siteName">FLAGSTAFF (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-111.19843499992,34.5743330000491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="siteID">KFTG</SimpleData>
+		<SimpleData name="siteName">DENVER</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.545796999848,39.7866390003085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="siteID">KFWS</SimpleData>
+		<SimpleData name="siteName">DALLAS/FT WORTH</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.3031309998995,32.5727779999849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="siteID">KGGW</SimpleData>
+		<SimpleData name="siteName">GLASGOW</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.624683000411,48.2063609998514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="siteID">KGJX</SimpleData>
+		<SimpleData name="siteName">GRAND JUNCTION (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-108.213752000273,39.0622219998106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="siteID">KGLD</SimpleData>
+		<SimpleData name="siteName">GOODLAND</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.70026899983,39.3669439997774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="siteID">KGRB</SimpleData>
+		<SimpleData name="siteName">GREEN BAY</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.111101000407,44.4986330000355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="siteID">KGRK</SimpleData>
+		<SimpleData name="siteName">FT HOOD</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.3827699996543,30.7216670002212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="siteID">KGRR</SimpleData>
+		<SimpleData name="siteName">GRAND RAPIDS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.5448800002543,42.8938890000338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="siteID">KGSP</SimpleData>
+		<SimpleData name="siteName">GREER</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.2198249998916,34.8833060000124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="siteID">KGWX</SimpleData>
+		<SimpleData name="siteName">COLUMBUS AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.3291859999609,33.8969169998962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="siteID">KGYX</SimpleData>
+		<SimpleData name="siteName">PORTLAND, ME</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.2563509998788,43.891306000274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="siteID">KHDX</SimpleData>
+		<SimpleData name="siteName">HOLLOMAN AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.120023999551,33.0769999998236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="siteID">KHGX</SimpleData>
+		<SimpleData name="siteName">HOUSTON</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.078880999872,29.471943999874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="siteID">KHNX</SimpleData>
+		<SimpleData name="siteName">SAN JOAQUIN VALY</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.632129999868,36.3141670003358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="siteID">KHPX</SimpleData>
+		<SimpleData name="siteName">FT CAMPBELL</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.2849909998611,36.7366669999905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="siteID">KHTX</SimpleData>
+		<SimpleData name="siteName">NORTHEAST ALABAMA</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.0836029999073,34.9305560000151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="siteID">KICT</SimpleData>
+		<SimpleData name="siteName">WICHITA</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.4430470001345,37.6544439997781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="siteID">KICX</SimpleData>
+		<SimpleData name="siteName">CEDAR CITY (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-112.862213000342,37.5910500003541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="siteID">KILN</SimpleData>
+		<SimpleData name="siteName">CINCINNATI</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.8216579999288,39.4202779997091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="siteID">KILX</SimpleData>
+		<SimpleData name="siteName">LINCOLN</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.3367830002769,40.1504999997613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="siteID">KIND</SimpleData>
+		<SimpleData name="siteName">INDIANAPOLIS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.2802690001198,39.7074999996667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="siteID">KINX</SimpleData>
+		<SimpleData name="siteName">TULSA</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.5641299999802,36.1749999997016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="siteID">KIWA</SimpleData>
+		<SimpleData name="siteName">PHOENIX</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-111.66999199974,33.2891669996812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="siteID">KIWX</SimpleData>
+		<SimpleData name="siteName">NORTHERN INDIANA</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.699990999927,41.3586110001892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="siteID">KJAX</SimpleData>
+		<SimpleData name="siteName">JACKSONVILLE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.7018920001165,30.4846330002306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="siteID">KJGX</SimpleData>
+		<SimpleData name="siteName">ROBINS AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.351102999841,32.6750000002037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="siteID">KJKL</SimpleData>
+		<SimpleData name="siteName">JACKSON, KY</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.313047000215,37.5908330000296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="siteID">KLBB</SimpleData>
+		<SimpleData name="siteName">LUBBOCK</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-101.814158999772,33.6541389997269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="siteID">KLCH</SimpleData>
+		<SimpleData name="siteName">LAKE CHARLES</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.215881000302,30.1253059999618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="siteID">KLIX</SimpleData>
+		<SimpleData name="siteName">SLIDELL</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.8254090002018,30.336667000352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="siteID">KLNX</SimpleData>
+		<SimpleData name="siteName">NORTH PLATTE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.576212000392,41.9579439998251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="siteID">KLOT</SimpleData>
+		<SimpleData name="siteName">CHICAGO</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.0844349998814,41.604444000279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="siteID">KLRX</SimpleData>
+		<SimpleData name="siteName">ELKO (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-116.802768999781,40.7397219999034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="siteID">KLSX</SimpleData>
+		<SimpleData name="siteName">ST LOUIS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.6827689999636,38.6988890001023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="siteID">KLTX</SimpleData>
+		<SimpleData name="siteName">WILMINGTON</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.4291589997782,33.9891669996647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="siteID">KLVX</SimpleData>
+		<SimpleData name="siteName">LOUISVILLE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.9438800000161,37.9752779998112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="siteID">KLZK</SimpleData>
+		<SimpleData name="siteName">LITTLE ROCK</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.261935999806,34.836388999667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="siteID">KMAF</SimpleData>
+		<SimpleData name="siteName">MIDLAND/ODESSA</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.189242000084,31.9434609999009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="siteID">KMAX</SimpleData>
+		<SimpleData name="siteName">MEDFORD (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.71735199965,42.0811109998768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="siteID">KMBX</SimpleData>
+		<SimpleData name="siteName">MINOT AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.86443299989,48.3924999997423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="siteID">KMHX</SimpleData>
+		<SimpleData name="siteName">MOREHEAD CITY</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.8763809995536,34.7758329996448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="siteID">KMKX</SimpleData>
+		<SimpleData name="siteName">MILWAUKEE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.5505460001226,42.9677779999235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="siteID">KMLB</SimpleData>
+		<SimpleData name="siteName">MELBOURNE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.6544359996526,28.1130560001301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="siteID">KMOB</SimpleData>
+		<SimpleData name="siteName">MOBILE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2397139997836,30.6794439998005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">99</SimpleData>
+		<SimpleData name="siteID">KMPX</SimpleData>
+		<SimpleData name="siteName">MINNEAPOLIS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.5655180002796,44.8488889999497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">100</SimpleData>
+		<SimpleData name="siteID">KMQT</SimpleData>
+		<SimpleData name="siteName">MARQUETTE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.548323000314,46.5311109997972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">101</SimpleData>
+		<SimpleData name="siteID">KMRX</SimpleData>
+		<SimpleData name="siteName">KNOXVILLE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.4019350002363,36.1683330001527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">102</SimpleData>
+		<SimpleData name="siteID">KMSX</SimpleData>
+		<SimpleData name="siteName">MISSOULA (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-113.986100999725,47.041110999749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="siteID">KMTX</SimpleData>
+		<SimpleData name="siteName">SALT LAKE CITY (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-112.447768999823,41.2627780002701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="siteID">KMUX</SimpleData>
+		<SimpleData name="siteName">SAN FRANCISCO</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.898435000027,37.1552220000382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="siteID">KMVX</SimpleData>
+		<SimpleData name="siteName">FARGO/GRAND FORKS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.3249900003553,47.5280559999378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">106</SimpleData>
+		<SimpleData name="siteID">KMXX</SimpleData>
+		<SimpleData name="siteName">MAXWELL AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.7897409999387,32.5366499999059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">107</SimpleData>
+		<SimpleData name="siteID">KNKX</SimpleData>
+		<SimpleData name="siteName">SAN DIEGO</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.041936000189,32.9188890001336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">108</SimpleData>
+		<SimpleData name="siteID">KNQA</SimpleData>
+		<SimpleData name="siteName">MEMPHIS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.8733240001896,35.3447219999068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="siteID">KOAX</SimpleData>
+		<SimpleData name="siteName">OMAHA</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.3667960000065,41.3202779997546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="siteID">KOHX</SimpleData>
+		<SimpleData name="siteName">NASHVILLE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.5624909998444,36.2472219999691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">111</SimpleData>
+		<SimpleData name="siteID">KOKX</SimpleData>
+		<SimpleData name="siteName">BROOKHAVEN</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-72.8639080002881,40.8655279996733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">112</SimpleData>
+		<SimpleData name="siteID">KOTX</SimpleData>
+		<SimpleData name="siteName">SPOKANE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.625823,47.6805559999911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="siteID">KPAH</SimpleData>
+		<SimpleData name="siteName">PADUCAH</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.7719349996983,37.0683330002759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="siteID">KPBZ</SimpleData>
+		<SimpleData name="siteName">PITTSBURGH</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.2179350001085,40.5316670003301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">115</SimpleData>
+		<SimpleData name="siteID">KPDT</SimpleData>
+		<SimpleData name="siteName">PENDLETON</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.852906999638,45.6905560002919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">116</SimpleData>
+		<SimpleData name="siteID">KPOE</SimpleData>
+		<SimpleData name="siteName">FT POLK</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.9758250001391,31.1552780000725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">117</SimpleData>
+		<SimpleData name="siteID">KPUX</SimpleData>
+		<SimpleData name="siteName">PUEBLO</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.181379999636,38.4594439999043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="siteID">KRAX</SimpleData>
+		<SimpleData name="siteName">RALEIGH/DURHAM</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.4899919999271,35.6652779998339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">119</SimpleData>
+		<SimpleData name="siteID">KRGX</SimpleData>
+		<SimpleData name="siteName">RENO (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.462018999853,39.7540559999486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">120</SimpleData>
+		<SimpleData name="siteID">KRIW</SimpleData>
+		<SimpleData name="siteName">RIVERTON/LANDER</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-108.477289999692,43.0661110000905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">121</SimpleData>
+		<SimpleData name="siteID">KRLX</SimpleData>
+		<SimpleData name="siteName">CHARLESTON, WV</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.722769000033,38.311110999726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">122</SimpleData>
+		<SimpleData name="siteID">KRTX</SimpleData>
+		<SimpleData name="siteName">PORTLAND, OR</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.96499,45.7149999997364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="siteID">KSFX</SimpleData>
+		<SimpleData name="siteName">POCATELLO</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-112.686122999747,43.1056000002254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="siteID">KSGF</SimpleData>
+		<SimpleData name="siteName">SPRINGFIELD</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.4002689996876,37.2352779999204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">125</SimpleData>
+		<SimpleData name="siteID">KSHV</SimpleData>
+		<SimpleData name="siteName">SHREVEPORT</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.8412419995656,32.4508329997222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="siteID">KSJT</SimpleData>
+		<SimpleData name="siteName">SAN ANGELO</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-100.492214000281,31.3711109999809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">127</SimpleData>
+		<SimpleData name="siteID">KSOX</SimpleData>
+		<SimpleData name="siteName">SANTA ANA MTS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.635991000161,33.8177329998768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">128</SimpleData>
+		<SimpleData name="siteID">KSRX</SimpleData>
+		<SimpleData name="siteName">WESTERN ARKANSAS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.3618800000361,35.2904169999643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">129</SimpleData>
+		<SimpleData name="siteID">KTBW</SimpleData>
+		<SimpleData name="siteName">TAMPA</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.401936,27.7052779999852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">130</SimpleData>
+		<SimpleData name="siteID">KTFX</SimpleData>
+		<SimpleData name="siteName">GREAT FALLS</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-111.38526799971,47.4597219997239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">131</SimpleData>
+		<SimpleData name="siteID">KTLH</SimpleData>
+		<SimpleData name="siteName">TALLAHASSEE</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.3288810001207,30.397500000077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">132</SimpleData>
+		<SimpleData name="siteID">KTLX</SimpleData>
+		<SimpleData name="siteName">NORMAN</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.277753000235,35.3330559997347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">133</SimpleData>
+		<SimpleData name="siteID">KTWX</SimpleData>
+		<SimpleData name="siteName">TOPEKA</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.2324910001053,38.9969440003165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="siteID">KTYX</SimpleData>
+		<SimpleData name="siteName">FT DRUM</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6799899996403,43.7558329996856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">135</SimpleData>
+		<SimpleData name="siteID">KUDX</SimpleData>
+		<SimpleData name="siteName">RAPID CITY</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.829990000203,44.1247220002823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">136</SimpleData>
+		<SimpleData name="siteID">KUEX</SimpleData>
+		<SimpleData name="siteName">GRAND ISLAND</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.4419349999593,40.3208330000831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">137</SimpleData>
+		<SimpleData name="siteID">KVAX</SimpleData>
+		<SimpleData name="siteName">MOODY AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.0017980001244,30.8902780001181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">138</SimpleData>
+		<SimpleData name="siteID">KVBX</SimpleData>
+		<SimpleData name="siteName">VANDENBERG AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-120.397909000405,34.8385499997356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">139</SimpleData>
+		<SimpleData name="siteID">KVNX</SimpleData>
+		<SimpleData name="siteName">VANCE AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.1274909996269,36.740833000041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">140</SimpleData>
+		<SimpleData name="siteID">KVTX</SimpleData>
+		<SimpleData name="siteName">LOS ANGELES</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-119.178602000052,34.4116669996629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">141</SimpleData>
+		<SimpleData name="siteID">KVWX</SimpleData>
+		<SimpleData name="siteName">EVANSVILLE, IN (NON-NEXRAD)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7245190003157,38.2602500002111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">142</SimpleData>
+		<SimpleData name="siteID">KYUX</SimpleData>
+		<SimpleData name="siteName">YUMA (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-114.656686000321,32.4952780000943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">143</SimpleData>
+		<SimpleData name="siteID">PACG</SimpleData>
+		<SimpleData name="siteName">SITKA FAA (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-135.529153999792,56.8527780000751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">144</SimpleData>
+		<SimpleData name="siteID">PAEC</SimpleData>
+		<SimpleData name="siteName">NOME FAA (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-165.294984000339,64.5113890000985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">145</SimpleData>
+		<SimpleData name="siteID">PAHG</SimpleData>
+		<SimpleData name="siteName">ANCHORAGE FAA (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-151.34915300042,60.7263889999662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">146</SimpleData>
+		<SimpleData name="siteID">PAIH</SimpleData>
+		<SimpleData name="siteName">MIDDLETON ISLAND (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-146.301096999665,59.461943999963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">147</SimpleData>
+		<SimpleData name="siteID">PAKC</SimpleData>
+		<SimpleData name="siteName">KING SALMON FAA (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-156.629431000358,58.6794440000568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">148</SimpleData>
+		<SimpleData name="siteID">PAPD</SimpleData>
+		<SimpleData name="siteName">FAIRBANKS FAA (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.499151000358,65.0355560001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">149</SimpleData>
+		<SimpleData name="siteID">PGUA</SimpleData>
+		<SimpleData name="siteName">ANDERSEN AFB</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>144.811118000318,13.4558329999335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">150</SimpleData>
+		<SimpleData name="siteID">PHKI</SimpleData>
+		<SimpleData name="siteName">SOUTH KAUAI FAA (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-159.55249199966,21.8938890002385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">151</SimpleData>
+		<SimpleData name="siteID">PHKM</SimpleData>
+		<SimpleData name="siteName">KAMUELA/KOHALA APT (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.77777099972,20.1252779997482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">152</SimpleData>
+		<SimpleData name="siteID">PHMO</SimpleData>
+		<SimpleData name="siteName">MOLOKAI FAA (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-157.180269999558,21.1327779998372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="siteID">PHWA</SimpleData>
+		<SimpleData name="siteName">SOUTH SHORE FAA (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-155.568881,19.0950000000894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">154</SimpleData>
+		<SimpleData name="siteID">TJUA</SimpleData>
+		<SimpleData name="siteName">SAN JUAN FAA (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-66.0781589996679,18.1156670004229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">155</SimpleData>
+		<SimpleData name="siteID">KLWX</SimpleData>
+		<SimpleData name="siteName">STERLING</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.4874910002841,38.9761109996593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">156</SimpleData>
+		<SimpleData name="siteID">PABC</SimpleData>
+		<SimpleData name="siteName">BETHEL FAA (RDA 1)</SimpleData>
+		<SimpleData name="radarType">NEXRAD</SimpleData>
+		<SimpleData name="antennaElevation">Unknown</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-161.87637500035,60.7919439999297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">157</SimpleData>
+		<SimpleData name="siteID">TADW</SimpleData>
+		<SimpleData name="siteName">Andrews Air Force Base</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">346</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.8449999999182,38.6949999998782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">158</SimpleData>
+		<SimpleData name="siteID">TATL</SimpleData>
+		<SimpleData name="siteName">Atlanta</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">1075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.261999999795,33.6470000000177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">159</SimpleData>
+		<SimpleData name="siteID">TBNA</SimpleData>
+		<SimpleData name="siteName">Nashville</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.6619999997604,35.9799999997262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">160</SimpleData>
+		<SimpleData name="siteID">TBOS</SimpleData>
+		<SimpleData name="siteName">Boston</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">264</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9329999996472,42.1579999996695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">161</SimpleData>
+		<SimpleData name="siteID">TBWI</SimpleData>
+		<SimpleData name="siteName">Baltimore/Wash</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">297</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.6300000001028,39.0900000000407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">162</SimpleData>
+		<SimpleData name="siteID">TCLT</SimpleData>
+		<SimpleData name="siteName">Charlotte</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.8849999998749,35.3370000000279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">163</SimpleData>
+		<SimpleData name="siteID">TCMH</SimpleData>
+		<SimpleData name="siteName">Columbus, OH</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">1148</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.7150000003088,40.0060000002574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">164</SimpleData>
+		<SimpleData name="siteID">TCVG</SimpleData>
+		<SimpleData name="siteName">Covington</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">1053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.5800000000442,38.8979999996632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">165</SimpleData>
+		<SimpleData name="siteID">TDAL</SimpleData>
+		<SimpleData name="siteName">Dallas Love Field</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">622</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.9679999996213,32.9260000000193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">166</SimpleData>
+		<SimpleData name="siteID">TDAY</SimpleData>
+		<SimpleData name="siteName">Dayton</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">1019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.1229999999771,40.0220000003048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">167</SimpleData>
+		<SimpleData name="siteID">TDCA</SimpleData>
+		<SimpleData name="siteName">Washington National</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9619999997132,38.7590000002749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">168</SimpleData>
+		<SimpleData name="siteID">TDEN</SimpleData>
+		<SimpleData name="siteName">Denver</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">5701</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-104.52600000038,39.7280000000119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">169</SimpleData>
+		<SimpleData name="siteID">TDFW</SimpleData>
+		<SimpleData name="siteName">Dallas/Ft. Worth</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.9179999999777,33.06500000012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">170</SimpleData>
+		<SimpleData name="siteID">TDTW</SimpleData>
+		<SimpleData name="siteName">Detroit</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.515,42.1110000002735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">171</SimpleData>
+		<SimpleData name="siteID">TEWR</SimpleData>
+		<SimpleData name="siteName">Newark</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.2699999998524,40.5929999999846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">172</SimpleData>
+		<SimpleData name="siteID">TFLL</SimpleData>
+		<SimpleData name="siteName">Fort Lauderdale</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">120</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.344,26.1429999997523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">173</SimpleData>
+		<SimpleData name="siteID">THOU</SimpleData>
+		<SimpleData name="siteName">Houston Hobby</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.2419999997039,29.5160000002447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">174</SimpleData>
+		<SimpleData name="siteID">TIAD</SimpleData>
+		<SimpleData name="siteName">Dulles</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">473</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.5289999998948,39.084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">175</SimpleData>
+		<SimpleData name="siteID">TIAH</SimpleData>
+		<SimpleData name="siteName">Houston International</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">253</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.5669999996337,30.0650000002387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">176</SimpleData>
+		<SimpleData name="siteID">TICH</SimpleData>
+		<SimpleData name="siteName">Witchita</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">1351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.4369999997826,37.5070000003402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">177</SimpleData>
+		<SimpleData name="siteID">TIDS</SimpleData>
+		<SimpleData name="siteName">Indianapolis</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">847</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.4359999999336,39.6370000002765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">178</SimpleData>
+		<SimpleData name="siteID">TJFK</SimpleData>
+		<SimpleData name="siteName">New York City</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.8810000000194,40.589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">179</SimpleData>
+		<SimpleData name="siteID">TLAS</SimpleData>
+		<SimpleData name="siteName">Las Vegas</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">2058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.007000000341,36.1440000001262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">180</SimpleData>
+		<SimpleData name="siteID">TLVE</SimpleData>
+		<SimpleData name="siteName">Cleveland, OH</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.0080000002266,41.2900000000391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">181</SimpleData>
+		<SimpleData name="siteID">TMCI</SimpleData>
+		<SimpleData name="siteName">Kansas City</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">1090</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.7419999996737,39.4980000001259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">182</SimpleData>
+		<SimpleData name="siteID">TMCO</SimpleData>
+		<SimpleData name="siteName">Orlando International</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.3260000004153,28.3440000001043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">183</SimpleData>
+		<SimpleData name="siteID">TMDW</SimpleData>
+		<SimpleData name="siteName">Chicago Midway</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">763</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7300000000549,41.6510000000911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">184</SimpleData>
+		<SimpleData name="siteID">TMEM</SimpleData>
+		<SimpleData name="siteName">Memphis</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">483</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.9930000003677,34.8959999999772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">185</SimpleData>
+		<SimpleData name="siteID">TMIA</SimpleData>
+		<SimpleData name="siteName">Miami</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.4909999996283,25.7580000002475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">186</SimpleData>
+		<SimpleData name="siteID">TMKE</SimpleData>
+		<SimpleData name="siteName">Milwaukee</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.0460000001386,42.8189999998169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">187</SimpleData>
+		<SimpleData name="siteID">TMSP</SimpleData>
+		<SimpleData name="siteName">Minneapolis</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">1121</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.9330000000782,44.8709999998617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">188</SimpleData>
+		<SimpleData name="siteID">TMSY</SimpleData>
+		<SimpleData name="siteName">New Orleans</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">99</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.4030000001409,30.0219999996552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">189</SimpleData>
+		<SimpleData name="siteID">TOKC</SimpleData>
+		<SimpleData name="siteName">Oklahoma City</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">1308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.5100000004302,35.276000000113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">190</SimpleData>
+		<SimpleData name="siteID">TORD</SimpleData>
+		<SimpleData name="siteName">Chicago O'Hare</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">744</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8579999998614,41.7969999996937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">191</SimpleData>
+		<SimpleData name="siteID">TPBI</SimpleData>
+		<SimpleData name="siteName">West Palm Beach</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.2729999995648,26.6879999998393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">192</SimpleData>
+		<SimpleData name="siteID">TPHL</SimpleData>
+		<SimpleData name="siteName">Philadelphia</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0690000003571,39.9489999997675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">193</SimpleData>
+		<SimpleData name="siteID">TPHX</SimpleData>
+		<SimpleData name="siteName">Phoenix</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">1089</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-112.162999999587,33.4209999997458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">194</SimpleData>
+		<SimpleData name="siteID">TPIT</SimpleData>
+		<SimpleData name="siteName">Pittsburgh</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">1386</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.486000000113,40.5010000000505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">195</SimpleData>
+		<SimpleData name="siteID">TRDU</SimpleData>
+		<SimpleData name="siteName">Raleigh Durham</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">515</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.697000000375,36.0019999996387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">196</SimpleData>
+		<SimpleData name="siteID">TSDF</SimpleData>
+		<SimpleData name="siteName">Louisville, KY</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.6099999998908,38.0460000000904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">197</SimpleData>
+		<SimpleData name="siteID">TSJU</SimpleData>
+		<SimpleData name="siteName">San Juan</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-66.1789999999277,18.4739999998031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">198</SimpleData>
+		<SimpleData name="siteID">TSLC</SimpleData>
+		<SimpleData name="siteName">Salt Lake City</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">4295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-111.93,40.9669999998847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">199</SimpleData>
+		<SimpleData name="siteID">TSTL</SimpleData>
+		<SimpleData name="siteName">St. Louis</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.4890000000671,38.8049999999099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">200</SimpleData>
+		<SimpleData name="siteID">TTPA</SimpleData>
+		<SimpleData name="siteName">Tampa Bay</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.5180000001855,27.8600000002821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Weather_Radar_Stations">
+		<SimpleData name="OBJECTID">201</SimpleData>
+		<SimpleData name="siteID">TTUL</SimpleData>
+		<SimpleData name="siteName">Tulsa</SimpleData>
+		<SimpleData name="radarType">TDWR</SimpleData>
+		<SimpleData name="antennaElevation">823</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.8269999995776,36.0709999997971</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
