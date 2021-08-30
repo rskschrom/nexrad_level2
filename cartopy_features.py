@@ -8,6 +8,7 @@ import cartopy.io.shapereader as shpreader
 from metpy.plots import USCOUNTIES
 from read_sites import nexrad_loc
 from netCDF4 import Dataset
+from shapely.geometry.polygon import Polygon
 
 # function to convert x,y to lon,lat
 def lonlat2xy(lon, lat, lon0, lat0):
@@ -24,7 +25,11 @@ def radsite_counties(site):
     uscnt = USCOUNTIES.with_scale('20m').geometries()
     cntx = []
     cnty = []
+    
     for usc in uscnt:
+        if isinstance(usc, Polygon):
+            usc = [usc]
+            
         for poly in usc:
             lon, lat = poly.exterior.xy
 
@@ -32,7 +37,15 @@ def radsite_counties(site):
             x, y = lonlat2xy(np.array(lon), np.array(lat), radlon, radlat)
             cntx.append(x)
             cnty.append(y)
+    '''
+    for poly in uscnt:
+        lon, lat = poly.exterior.xy
 
+        # convert to radar-relative x-y coordinates
+        x, y = lonlat2xy(np.array(lon), np.array(lat), radlon, radlat)
+        cntx.append(x)
+        cnty.append(y)
+    '''
     # subset county polygons close enough to radar site
     ncnt = len(cntx)
     cntx_sub = []
@@ -87,6 +100,9 @@ def radsite_states(site):
     stx = []
     sty = []
     for ust in usst:
+        if isinstance(ust, Polygon):
+            ust = [ust]
+            
         for poly in ust:
             lon, lat = poly.exterior.xy
             x, y = lonlat2xy(np.array(lon), np.array(lat), radlon, radlat)

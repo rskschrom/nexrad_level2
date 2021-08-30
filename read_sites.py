@@ -9,7 +9,7 @@ def nexrad_loc(radsite):
 
     # parse kml file
     k = kml.KML()
-    k.from_string(doc)
+    k.from_string(bytes(doc, encoding='utf8'))
     features = list(k.features())
     f2 = list(features[0].features())
     f3 = list(f2[0].features())

@@ -1,5 +1,7 @@
 import numpy as np
-from tensorflow.keras.models import load_model
+import os
+os.environ["KERAS_BACKEND"] = "plaidml.keras.backend"
+from keras.models import load_model
 
 # normalization function
 def normalize(data, scale=None):
@@ -23,10 +25,10 @@ def normalize(data, scale=None):
 #----------------------------------
 def calc_kdp(phidp, dr):
     #autoencoder = load_model('kdp_model.h5')
-    autoencoder = load_model('kdp_long.h5', compile=False)
+    autoencoder = load_model('kdp_model_masked.h5', compile=False)
     nrange = 512
 
-    # extend phidp in range is less than nrange
+    # pad phidp in range if less than nrange
     nran_orig = phidp.shape[1]
     if nran_orig<nrange:
         phidp_ext = np.ma.masked_all([phidp.shape[0],nrange])

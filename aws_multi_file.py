@@ -1,9 +1,11 @@
 import boto3
+from botocore.handlers import disable_signing
 from numpy import array, argmin, abs
 from datetime import datetime, timedelta
 import os
 #from nws_ppi_times import plot_low_sweeps, plot_single
-from nws_radar import plot_single
+from nws_radar import plot_single, kdp_compare
+from nws_qvp import single_qvp
 import cartopy_features as cf
 import glob
 
@@ -21,24 +23,24 @@ def dtstring2secs(dtstring):
 
 # set up access to aws server
 s3 = boto3.resource('s3')
+s3.meta.client.meta.events.register('choose-signer.s3.*', disable_signing)
 bucket = s3.Bucket('noaa-nexrad-level2')
 
 # set radar site and set time as now
-radsite = 'KBMX'
-
+radsite = 'KLWX'
 '''
 year = 2020
-month = 11
-day = 30
-hour = 20
-minute = 37
+month = 8
+day = 27
+hour = 5
+minute = 0
 end = datetime(year, month, day, hour, minute)
 '''
-code_min = 0
+code_min = 1
 end = datetime.utcnow()+timedelta(minutes=code_min)
 
 # get beginning loop time
-loop_min = 20
+loop_min = 1
 loop_len = timedelta(minutes=loop_min)
 start = end-loop_len
 
@@ -103,6 +105,7 @@ for i in range(loop_min):
     dfile = fnames[closeind]
     if not os.path.isfile(dfile):
         s3_client = boto3.client('s3')
+        s3_client.meta.events.register('choose-signer.s3.*', disable_signing)
         s3_client.download_file('noaa-nexrad-level2', dkey, dfile)
         os.system('gunzip {}'.format(dfile))
 
@@ -122,4 +125,6 @@ if not os.path.isfile(f'site_geom/{radsite}_states.nc'):
 
 # plot ppis
 for nf in nexrad_files:
-    plot_single(radsite, nf, ds_set=40, xcen_set=-35., ycen_set=10., sw_ang=0.5, range_rings=True, mode='severe')
+    plot_single(radsite, nf, ds_set=40., xcen_set=45., ycen_set=0., sw_ang=0.5, range_rings=False, mode='severe', npanel=4)
+    #single_qvp(radsite, nf, sw_ang=5.)
+    #kdp_compare(radsite, nf, ds_set=150., xcen_set=0., ycen_set=0., sw_ang=0.5, range_rings=False, mode='severe')
